@@ -99,5 +99,13 @@ button {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.12rem;
+
+  transition: all;
+}
+
+button:hover {
+  cursor: pointer;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 1rem rgba(255, 248, 107, 0.2);
 }
 
