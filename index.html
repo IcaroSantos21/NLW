@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,500;1,14..32,500&display=swap" rel="stylesheet">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+  <header>
+    <img src="./assets/logo.png" alt="Logo esports nlw">
+  </header>
+  
+  <main>
+    <section>
+      <div>
+        <h2 class="title">Assistente de Meta</h2>
+        <p>Pergunte sobre estrategias, builds e dicas para seus jogos</p>
+        <form>
+          <input type="password" placeholder="Informe a API KEY do Gemini" required>
+          <select>
+            <option value="">Selecione o jogo</option>
+            <option value="Valorant">Valorant</option>
+            <option value="lol">League of Legends</option>
+            <option value="csgo">CSGO</option>
+            <option value="free fire">Free Fire</option>
+          </select>
+          <input type="text" placeholder="Ex: melhor arma para rush no free fire..." required>
+          <button>Enviar</button>
+        </form>
+
+        <div id="aiResponse">
+          <div class="response-content"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>
