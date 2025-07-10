@@ -22,7 +22,8 @@
 - Protocol
   - Protocolo
   - Conjunto de regras
-
+- Methods(verbos) HTTP: Get, Post, Past/Put, Delete 
+- Headers(cabeçalhos): Instruções extras para cada chamada 
 # URL
 
 - Uniform
@@ -68,3 +69,40 @@ A partir disso, o HTML é impactado visualmente.
 - declaração
 - seletor
 - propriedade e valor
+
+# JS
+- Linguagem de programação
+- Browser
+- Input -> Processamento -> Output
+- Variáveis
+- Functions
+  - Agrupamento e reuso de código
+  - Sequência lógica
+  - Saída
+- Gemini (IA): esperar uma resposta
+- Mexer no computador
+- Estrutura de dados
+- Estrutura de 
+
+# API
+
+- Application
+- Programming
+- Interface
+- JSON: JavaScript Object Notation
+
+# CDN
+
+- Content
+- Delivery
+- Network
+
+# LLM
+- Large
+- Language
+- Model
+- Gemini, OpenAI, ChatGPT, Anthropic ...
+
+# Agents AI
+- Tools (ferramentas): permitem uso de código ou apps ou qualquer informações extras
+- Melhor contexto
