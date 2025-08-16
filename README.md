@@ -1,108 +1,51 @@
-# Projeto NLW - RocketSeat
+# 🚀 NLW - Next Level Week
 
-# HTML
-- HyperText Language
-  - Textos puros, livros, revistas, jornais
-  - Links: acessar outros documentos
-  - Imagens: imagens, vídeos, audios
-- Markup
-  - Marcação
-  - Tags <a> Link </a>
-  - Atributos: <a href="https://rocketseat.com.br">
-  - globais: id, class, ...
-- Language
-  - Lingauagem
-  - Sintaxe: maneira de escrever
+## 📋 Sobre o Projeto
 
-# HTTP
+Aplicação web desenvolvida durante o **Next Level Week** da RocketSeat, focada no aprendizado prático de tecnologias fundamentais para desenvolvimento web moderno.
 
-- HyperText
-- Transfer
-  - Transferência
-- Protocol
-  - Protocolo
-  - Conjunto de regras
-- Methods(verbos) HTTP: Get, Post, Past/Put, Delete 
-- Headers(cabeçalhos): Instruções extras para cada chamada 
-# URL
+## ✨ Funcionalidades
 
-- Uniform
-  - Uniforme
-- Resource
-  - Recurso
-- Locator
-  - Localizador
-Encontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3 ...)
-Endereço
+- Interface responsiva com HTML5 e CSS3
+- Interatividade com JavaScript
+- Consumo de APIs REST
+- Manipulação de dados JSON
+- Integração com serviços externos
 
-# IP
-- Internet
-  - Rede mundial de computadores
-- Protocol
-  - Conjunto de regras
-- Endereço de computador
-  - rocketseat.com.br (domínio)
-  - 123.32.1.23 (ip)
+## 🛠️ Tecnologias
 
-# DNS
-- Domain
-  - Domínio
-- Name
-  - Nome
-- Server
-  - Servidor
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-# CSS
+## 🚀 Como executar
 
-- Cascading
-  - Cascata
-  - Regras das escritas
-    - Hierarquia
-- Style
-  - Estilo
-- Sheet
-  - Folha
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/nlw.git
 
-De um arquivo que terá na sua sintaxe, declarações, propriedades, valores, etc.
-A partir disso, o HTML é impactado visualmente.
+# Acesse a pasta
+cd nlw
 
-- declaração
-- seletor
-- propriedade e valor
+# Abra o index.html no navegador
+```
 
-# JS
-- Linguagem de programação
-- Browser
-- Input -> Processamento -> Output
-- Variáveis
-- Functions
-  - Agrupamento e reuso de código
-  - Sequência lógica
-  - Saída
-- Gemini (IA): esperar uma resposta
-- Mexer no computador
-- Estrutura de dados
-- Estrutura de 
+## 📱 Layout
 
-# API
+O projeto conta com design responsivo e interface moderna, adaptando-se a diferentes dispositivos.
 
-- Application
-- Programming
-- Interface
-- JSON: JavaScript Object Notation
+## 🎯 Aprendizados
 
-# CDN
+- Fundamentos de desenvolvimento web
+- Boas práticas de código
+- Integração com APIs
+- Conceitos de UX/UI
+- Versionamento com Git
 
-- Content
-- Delivery
-- Network
+## 👨‍💻 Autor
 
-# LLM
-- Large
-- Language
-- Model
-- Gemini, OpenAI, ChatGPT, Anthropic ...
+Desenvolvido com 💜 durante o NLW da [RocketSeat](https://rocketseat.com.br)
 
-# Agents AI
-- Tools (ferramentas): permitem uso de código ou apps ou qualquer informações extras
-- Melhor contexto
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
